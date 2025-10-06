@@ -113,6 +113,5 @@ Customer_Churn_Advanced/
 ├── Customer_Churn_Advanced.ipynb       # Main notebook
 ├── data_customer_churn.csv             # Dataset file
 ├── README.md                           # Project documentation
-└── requirements.txt                    # Required dependencies
 ```
 
