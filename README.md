@@ -64,10 +64,6 @@ This shows an **imbalanced dataset**, where most customers did not churn.
 
 ## Feature Importance (XGBoost)
 
-The following chart displays the **top features influencing churn** decisions according to the XGBoost model:
-
-![XGBoost Feature Importance](c7cb0365-67d1-40e4-8710-5688bfe285ce.png)
-
 ### What the Chart Shows
 
 Each bar represents a feature, and its length shows how much it contributed to the model’s predictions.
