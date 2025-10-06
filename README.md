@@ -1,2 +1,7 @@
-# customer-churn-prediction
-A machine learning project that predicts customer churn using demographic, account, and service usage data. Includes data preprocessing, feature engineering, model training (XGBoost &amp; Random Forest), hyperparameter tuning, and SHAP-based model explainability.
+# Customer Churn Prediction (Advanced)
+
+This project includes a synthetic advanced dataset (10,000 rows) designed to resemble real telecom churn data. It contains preprocessing, XGBoost modeling with hyperparameter search, and SHAP interpretation.
+
+Files:
+- Customer_Churn_Advanced.ipynb
+- data_churn_advanced.csv
