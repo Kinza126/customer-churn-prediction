@@ -1,6 +1,6 @@
 # Customer Churn Prediction (Advanced)
 
-This project focuses on predicting **customer churn** — whether a customer will leave a telecom service — using advanced **machine learning techniques** such as **XGBoost**.  
+This project focuses on predicting **customer churn** whether a customer will leave a telecom service using advanced **machine learning techniques** such as **XGBoost**.  
 The analysis provides insights into what drives customer retention and identifies the most influential factors behind churn behavior.
 
 ---
